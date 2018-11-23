@@ -2,8 +2,6 @@
 
 <div align="center">
 
-中台前端构架。
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1119/104245_2037ad77_421395.png "2.png")
 
 </div>
 
