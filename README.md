@@ -1,9 +1,8 @@
-<h1 align="center">mfs-web(微联管理后台)</h1>
+<h1 align="center">mfs-web(管理后台)</h1>
 
 <div align="center">
 
 中台前端构架。
-![输入图片说明](https://images.gitee.com/uploads/images/2018/1119/104226_e4e191e5_421395.jpeg "1.jpg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2018/1119/104245_2037ad77_421395.png "2.png")
 
 </div>
